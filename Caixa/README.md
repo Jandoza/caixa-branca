@@ -67,7 +67,7 @@ public class User {
 
 
 ## NOTAÇÃO DE GRAFO DE FLUXO
-**Identificação dos nós (blocos de decisão e processo)**
+
 
 |  **Nó** | **Descrição**                                     |
 | :-----: | :------------------------------------------------ |
